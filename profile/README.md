@@ -5,9 +5,9 @@ Outils :
 - BackLog
 - Swagger
 
-Front : [https://uber-bagarre.vercel.app/](https://uber-bagarre.vercel.app/)
+Front : [https://uberbagarre.netlify.app/](https://uberbagarre.netlify.app/)
 
-User Api : [https://api-mystore.onrender.com/api](https://api-mystore.onrender.com/api)
+User Api : [https://uberbagarre-back-office.netlify.app](https://uberbagarre-back-office.netlify.app)
 
 ADMIN USER :
  - email : test123@gmail.com
