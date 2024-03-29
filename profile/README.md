@@ -5,12 +5,10 @@ Outils :
 - BackLog
 - Swagger
 
-Front : [https://front-yqhb.onrender.com](https://front-yqhb.onrender.com)
-
-Back-office Api : [https://back-office-mkrp.onrender.com/api](https://back-office-mkrp.onrender.com/api)
+Front : [https://uber-bagarre.vercel.app/](https://uber-bagarre.vercel.app/)
 
 User Api : [https://api-mystore.onrender.com/api](https://api-mystore.onrender.com/api)
 
 ADMIN USER :
- - email : test3@gmail.com
- - password : Test1234
+ - email : test123@gmail.com
+ - password : test123
