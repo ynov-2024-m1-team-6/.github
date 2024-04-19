@@ -7,7 +7,7 @@ Outils :
 
 Front : [https://uberbagarre.netlify.app/](https://uberbagarre.netlify.app/)
 
-Front ADMIN : [https://uberbagarre-back-office.netlify.app/](https://uberbagarre-back-office.netlify.app/)
+Front ADMIN : [https://back-office-uberbagarre.netlify.app/](https://back-office-uberbagarre.netlify.app/)
 
 User Api : [https://api-mystore.onrender.com](https://api-mystore.onrender.com)
 
